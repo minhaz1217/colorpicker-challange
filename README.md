@@ -3,11 +3,16 @@ This is an example OA.
 
 The purpose of this is to generate a color picker.
 
-Write your code ONLY in the src/kernel.js file.
+Write your code ONLY in the `src/kernel.js` file.
 
+# Task
+
+The purpose of this challenge is to make the image like so. When we move the slider the canvas should change like this image.
+
+![Final output](task_images/task.gif)
 
 # Steps on how to get started
-* Go [here](https://github.com/minhaz1217/colorpicker-challange/tree/base-code) and download/clone the branch.
+* Go [here](https://github.com/minhaz1217/colorpicker-challenge/tree/base-code) and download/clone the branch.
 * Unzip the project
 * Go to the project directory
 * Run the command `npm run dev`
